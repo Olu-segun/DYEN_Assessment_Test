@@ -15,6 +15,7 @@ CSS Assessment.
 - Fundamental CSS comprehension: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/identitycard.html) // [ http://127.0.0.1:5500/identitycard.html ]
 - Typesetting a community school homepage: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/schoolhomepage.html) // [ http://127.0.0.1:5500/schoolhomepage.html ]
 - Fundamental layout comprehensions: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/website.html) // [ http://127.0.0.1:5500/website.html ]
+- Creating fancy letterheaded paper: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/fancyleterhead.html) // [ http://127.0.0.1:5500/fancyleterhead.html ]
 
 
 
