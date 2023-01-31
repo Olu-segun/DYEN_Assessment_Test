@@ -13,7 +13,7 @@ CSS Assessment.
 
 - Styling a biography page: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Biography.html) // [ http://127.0.0.1:5500/Biography.html ]
 - Fundamental CSS comprehension: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/identitycard.html) // [ http://127.0.0.1:5500/identitycard.html ]
-- Typesetting a community school homepage: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/schoolhomepage.html) // [http://127.0.0.1:5500/schoolhomepage.html]
+- Typesetting a community school homepage: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/schoolhomepage.html) // [ http://127.0.0.1:5500/schoolhomepage.html ]
 
 
 
