@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>Image gallery</title>
+<style>
+  h1{
+    font-family: helvetica, arial, sans-serif;
+    text-align: center;
+  }
+  
+  body{
+    width: 640px;
+    margin: 0 auto;
+  }
+  
+  .full-img {
+    position: relative;
+    display: block;
+    width: 640px;
+    height: 480px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 640px;
+    height: 480px;
+    background-color: rgba(0,0,0,0);
+  }
+  
+  button {
+    border: 0;
+    background: rgba(150,150,150,0.6);
+    text-shadow: 1px 1px 1px white;
+    border: 1px solid rgb(243, 9, 9);
+    position: absolute;
+    cursor: pointer;
+    top: 2px;
+    left: 2px;
+  }
+  
+  .thumb-bar img {
+    display: block;
+    width: 20%;
+    float: left;
+    cursor: pointer;
+  }
+</style>
+    
+  </head>
+
+  <body>
+    <h1>Image gallery example</h1>
+
+    <div class="full-img">
+      <img class="displayed-img" src="images/pic1.jpg" alt="Closeup of a human eye">
+      <div class="overlay"></div>
+      <button class="dark">Darken</button>
+    </div>
+
+    <div class="thumb-bar">
+
+</div>
+     
+     <script>
+      const displayedImage = document.querySelector('.displayed-img');
+const thumbBar = document.querySelector('.thumb-bar');
+
+const btn = document.querySelector('button');
+const overlay = document.querySelector('.overlay');
+
+
+
+/* Looping through images */
+for (let i = 1; i <= 5; i++){
+	let Source = 'images/pic' + [i] + ".jpg";
+
+	const newImage = document.createElement('img');
+	let Src = newImage.setAttribute('src', Source);
+	thumbBar.appendChild(newImage);
+
+	newImage.addEventListener('click', function() {
+		let newSrc = displayedImage.setAttribute('src', Source);
+		
+	})
+}
+
+/* Wiring up the Darken/Lighten button */
+
+btn.addEventListener('click', function() {
+	
+	if (btn.textContent === "Darken") {
+		btn.textContent = "Lighten";
+		btn.setAttribute('class', 'dark');
+		overlay.style.backgroundColor = "rgba(0,0,0,0.5)";
+
+
+	} else if (btn.textContent === "Lighten") {
+		btn.textContent = "Darken";
+		overlay.style.backgroundColor = "rgba(0,0,0,0)";
+		
+	}				
+})
+
+
+
+
+     </script>
+  </body>
+</html>
