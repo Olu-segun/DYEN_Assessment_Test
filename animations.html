@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Sequencing animations</title>
+<style>
+body{
+  background: #6c373f;
+  display: flex;
+  justify-content: center;
+  }
+
+#alice-container {
+  width: 90vh;
+  display: grid;
+  place-items: center;
+  grid-template-areas:
+    "a1 . ."
+    ". a2 ."
+    ". . a3";
+}
+
+#alice1 {
+  grid-area: a1;
+}
+
+#alice2 {
+  grid-area: a2;
+}
+
+#alice3 {
+  grid-area: a3;
+}
+
+</style>
+    
+</head>
+
+<body>
+
+    <div id="alice-container">
+      <img id="alice1"  src="images/alice.svg" role="img" alt="silhouette of crouching long haired character in dress and short boots">
+      <img id="alice2"  src="images/alice.svg" role="img" alt="silhouette of crouching long haired character in dress and short boots">
+      <img id="alice3"  src="images/alice.svg" role="img" alt="silhouette of crouching long haired character in dress and short boots">
+    </div>
+
+    <script type="text/javascript" defer>
+        
+    const aliceTumbling = [
+  { transform: 'rotate(0) scale(1)' },
+  { transform: 'rotate(360deg) scale(0)' }
+];
+
+const aliceTiming = {
+  duration: 2000,
+  iterations: 1,
+  fill: 'forwards'
+}
+
+const alice1 = document.querySelector("#alice1");
+const alice2 = document.querySelector("#alice2");
+const alice3 = document.querySelector("#alice3");
+</script>
+
+</body>
+
+</html>
