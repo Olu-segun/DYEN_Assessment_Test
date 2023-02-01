@@ -21,6 +21,7 @@ CSS Assessment.
 Javascript Assessment.
 - Image gallery: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/imagegallery.html )
 - Silly Story Generator: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/storygenerator.html )
+- Adding features to our bouncing balls demo: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/bouncingball.html )
 
 
 
