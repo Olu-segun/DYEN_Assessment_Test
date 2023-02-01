@@ -2,23 +2,24 @@
 
 HTML Assessment.
 
-- Marking up a letter: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Letter.html ) // [ http://127.0.0.1:5500/Letter.html ]
-- Structuring a web page of content: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Birdwatching.html ) // [  http://127.0.0.1:5500/Birdwatching.html ]
-- Mozila Splash Page: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Multimedia.html ) // [ http://127.0.0.1:5500/Multimedia.html ] 
-- Structuring planet data: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Table.html ) // [ http://127.0.0.1:5500/Table.html ]
+- Marking up a letter: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Letter.html )
+- Structuring a web page of content: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Birdwatching.html )
+- Mozila Splash Page: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Multimedia.html )
+- Structuring planet data: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Table.html )
 
 
 
 CSS Assessment.
 
-- Styling a biography page: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Biography.html) // [ http://127.0.0.1:5500/Biography.html ]
-- Fundamental CSS comprehension: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/identitycard.html) // [ http://127.0.0.1:5500/identitycard.html ]
-- Typesetting a community school homepage: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/schoolhomepage.html) // [ http://127.0.0.1:5500/schoolhomepage.html ]
-- Fundamental layout comprehensions: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/website.html) // [ http://127.0.0.1:5500/website.html ]
-- Creating fancy letterheaded paper: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/fancyleterhead.html) // [ http://127.0.0.1:5500/fancyleterhead.html ]
+- Styling a biography page: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/Biography.html)
+- Fundamental CSS comprehension: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/identitycard.html)
+- Typesetting a community school homepage: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/schoolhomepage.html)
+- Fundamental layout comprehensions: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/website.html)
+- Creating fancy letterheaded paper: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/fancyleterhead.html)
 
 
 Javascript Assessment.
+
 - Image gallery: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/imagegallery.html )
 - Silly Story Generator: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/storygenerator.html )
 - Adding features to our bouncing balls demo: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/bouncingball.html )
