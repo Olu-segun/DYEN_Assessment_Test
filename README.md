@@ -18,4 +18,8 @@ CSS Assessment.
 - Creating fancy letterheaded paper: (https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/fancyleterhead.html) // [ http://127.0.0.1:5500/fancyleterhead.html ]
 
 
+Javascript Assessment.
+- Image gallery: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/imagegallery.html )
+
+
 
