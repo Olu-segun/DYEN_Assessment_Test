@@ -20,7 +20,7 @@ CSS Assessment.
 
 Javascript Assessment.
 - Image gallery: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/imagegallery.html )
-- Silly Story Generator: ()
+- Silly Story Generator: ( https://github.com/Olu-segun/DYEN_Assessment_Test/blob/main/storygenerator.html )
 
 
 
